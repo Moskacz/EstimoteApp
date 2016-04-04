@@ -27,7 +27,7 @@
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>We use low-energy Bluetooth and iBeacon devices installed at the airport to find you inside the hall, and provide relevant information. You don’t need to know security wait times when you’re already at the gate, do you?</string>
+	<string>Test description</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
